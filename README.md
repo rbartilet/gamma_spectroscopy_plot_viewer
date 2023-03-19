@@ -1,5 +1,5 @@
 # NUCL2950 Radiation Protection Assignment 3
-## Gamma Spectroscopy Plotter
+## Gamma spectroscopy plotter
 
 Included dataset and .py file to plot gamma spectrum for Na-22 and Co-60
 

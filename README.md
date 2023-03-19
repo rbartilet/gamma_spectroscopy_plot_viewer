@@ -6,7 +6,8 @@ Included dataset and .py file to plot gamma spectrum for Na-22 and Co-60
 ## Required packages
 
 matplotlib
-  pandas
+
+pandas
 
 ## Dataset sources 
 
